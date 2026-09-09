@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=utf-8>
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<title>Innovenz</title>
+<link href=css/bootstrap.min.css rel=stylesheet>
+<link rel=stylesheet href=css/font-awesome.min.css>
+<link rel=stylesheet href=css/jquery.bxslider.css>
+<link rel=stylesheet type=text/css href=css/isotope.css media=screen />
+<link rel=stylesheet href=css/animate.css>
+<link rel=stylesheet href=js/fancybox/jquery.fancybox.css type=text/css media=screen />
+<link href=css/prettyPhoto.css rel=stylesheet />
+<link href=css/style.css rel=stylesheet />
+<style type=text/css>header nav ul li ul{display:none}header nav ul li:hover ul{display:block}.nav-item.submenu ul .nav-item .nav-link{line-height:45px;color:#222;padding:0 30px;display:block;margin-right:0}.navbar-light .navbar-nav .nav-link{color:rgba(0,0,0,0.5)}.navbar-nav .nav-link{padding-right:0;padding-left:0}.nav-link{display:block;padding:.5rem 1rem}.dropdown-divider{height:0;margin:.5rem 0;overflow:hidden;border-top:1px solid #e9ecef}</style>
+<script type="text/javascript">
+
+$(function(){
+    $(".dropdown").hover(            
+            function() {
+                $('.dropdown-menu', this).stop( true, true ).fadeIn("fast");
+                $(this).toggleClass('open');
+                $('b', this).toggleClass("caret caret-up");                
+            },
+            function() {
+                $('.dropdown-menu', this).stop( true, true ).fadeOut("fast");
+                $(this).toggleClass('open');
+                $('b', this).toggleClass("caret caret-up");                
+            });
+    });
+    </script>
+</head>
+<body>
+<header>
+
+
+
+
+
+
+<nav class="navbar navbar-default navbar-static-top" role=navigation>
+<div class=navigation style=height:80px>
+<div class=container>
+<div class=navbar-header>
+<button type=button class="navbar-toggle collapsed" data-toggle=collapse data-target=.navbar-collapse.collapse>
+<span class=sr-only>Toggle navigation</span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+</button>
+<div class=navbar-brand style="margin-top:-10px">
+<a href=index.html><img src=images/Innovenz_CDR.jpg alt="" width="208px" height="74px"></a>
+</div>
+</div>
+<div class="navbar-collapse collapse">
+<div class=menu style="font-size:14px;">
+<ul class="nav nav-tabs" role=tablist>
+<li role=presentation><a href=index.html>Home</a></li>
+<li role=presentation><a href=aboutus.html>who we Are</a></li>
+<li class="nav-item submenu dropdown">
+<a href=# class="nav-link dropdown-toggle" data-toggle=dropdown role=button aria-haspopup=true aria-expanded=false>What We Do</a>
+<ul class=dropdown-menu>
+<li class=nav-item><a class=nav-link href=corporateEvent.html>Corporate Events</a></li>
+<li class=nav-item><a class=nav-link href=weddingEvent.html>Wedding Events</a></li>
+<li class=nav-item><a class=nav-link href=brand.html>Branding</a></li>
+<li class=nav-item><a class=nav-link href=businessConsultation.html>Business Consultation</a></li>
+</ul>
+</li>
+<li role=presentation><a href=portfolio.html class=active>Portfolio</a></li>
+<li role=presentation><a href=contact.html>Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<section id=portfolio>
+<div class=container>
+<div class=col-lg-12>
+<div class=text-center>
+<div class="wow bounceInDown" data-wow-offset=0 data-wow-delay=0.3s>
+<h2>Portfolio</h2>
+</div>
+</div>
+<ul class="portfolio-filter text-center">
+<li><a class="btn btn-default active" href=# data-filter=*>Events</a></li>
+<li><a class="btn btn-default" href=# data-filter=.bootstrap>Corporate </a></li>
+<li><a class="btn btn-default" href=# data-filter=.html>Wedding</a></li>
+<li><a class="btn btn-default" href=# data-filter=.wordpress>Social Events</a></li>
+</ul>
+<div class=row>
+<div class=portfolio-items>
+<div class="portfolio-item apps col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=images/portfolio/full/item1.png rel=prettyPhoto style="color: #ED502E;"> 
+<img class=img-responsive src=images/portfolio/recent/item1.png style=width:290px;height:220px alt></a>
+<!-- <div class=overlay> -->
+<!-- <div class=recent-work-inner> -->
+<!-- <h3><a href=#></a></h3> -->
+<!-- <p></p> -->
+<!-- <a class=preview href=images/portfolio/full/item1.png rel=prettyPhoto style="color: #ED502E;"><i class="fa fa-eye" ></i> View</a> -->
+<!-- </div> -->
+<!-- </div> -->
+</div>
+</div>
+<div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/corporate/corpor.jpeg rel=prettyPhoto >
+<img class=img-responsive src=img/corporate/corpor.jpeg style=width:290px;height:220px alt></a>
+</div>
+</div>
+<div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/gallary/w16.jpg rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=img/gallary/w16.jpg style=width:290px;height:220px alt></a>
+</div>
+</div>
+<div class="portfolio-item bootstrap wordpress col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/gallary/w09.jpeg rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=img/gallary/w09.jpeg style=width:290px;height:220px alt></a>
+</div>
+</div>
+
+
+<div class="portfolio-item joomla wordpress apps col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/gallary/w09.jpeg rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=images/portfolio/recent/item4.png style=width:290px;height:220px alt></a>
+
+</div>
+</div>
+
+<div class="portfolio-item joomla html col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/gallary/w10.jpeg rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=img/gallary/w10.jpeg style=width:290px;height:220px alt></a>
+
+</div>
+</div>
+<div class="portfolio-item joomla html col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/gallary/w13.jpg rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=img/gallary/w13.jpg style=width:290px;height:220px alt></a>
+
+
+</div>
+</div>
+<div class="portfolio-item joomla html col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/gallary/w14.jpg rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=img/gallary/w14.jpg style=width:290px;height:220px alt></a>
+
+</div>
+</div>
+<div class="portfolio-item joomla html col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/gallary/w15.jpg rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=img/gallary/w15.jpg style=width:290px;height:220px alt></a>
+
+</div>
+</div>
+<div class="portfolio-item wordpress apps col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=images/portfolio/full/item6.png rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=images/portfolio/recent/item6.png style="width:290px;height:220px"alt></a>
+
+</div>
+</div>
+<div class="portfolio-item wordpress col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=images/portfolio/full/item7.png rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=images/portfolio/recent/item7.png style=width:290px;height:220px alt></a>
+
+</div>
+</div>
+<div class="portfolio-item bootstrap col-xs-12 col-sm-4 col-md-3">
+<div class=recent-work-wrap>
+<a class=preview href=img/corporate/corporate.jpg rel=prettyPhoto style="color: #ED502E;">
+<img class=img-responsive src=img/corporate/corporate.jpg style=width:290px;height:220px alt></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer>
+<div class=footer>
+<div class=container>
+<div class="col-md-4 wow fadeInUp" data-wow-offset=0 data-wow-delay=0.2s>
+<h2>Innovenz</h2>
+<p>We are a creative-led experiential event production agency that helps Innovate, Engage, Connect, Brands and Evolve.</p>
+</div>
+<div class="col-md-4 wow fadeInUp" data-wow-offset=0 data-wow-delay=0.2s>
+<h2>Social Networks</h2>
+<ul class=social-network>
+<li><a href=# data-placement=top title=Facebook><i class="fa fa-facebook fa-1x"></i></a></li>
+<li><a href=# data-placement=top title=Twitter><i class="fa fa-twitter fa-1x"></i></a></li>
+<li><a href=# data-placement=top title=Linkedin><i class="fa fa-linkedin fa-1x"></i></a></li>
+<li><a href=# data-placement=top title=Pinterest><i class="fa fa-pinterest fa-1x"></i></a></li>
+<li><a href=# data-placement=top title="Google plus"><i class="fa fa-google-plus fa-1x"></i></a></li>
+</ul>
+</div>
+<div class="col-md-4 wow fadeInUp" data-wow-offset=0 data-wow-delay=0.6s>
+<h3>CONTACT INFO</h3>
+<ul>
+<li><i class="fa fa-home fa-2x"></i> 22/1, 3rd Floor, 10th Cross Malleshwaram Bangalore – 560003 Karnataka </li>
+<li><i class="fa fa-phone fa-2x"></i> 9663929774</li>
+</ul>
+</div>
+</div>
+</div>
+<div class=sub-footer>
+<div class=container>
+<div class=row>
+<div class=col-md-6>
+&copy; Innovenz. All Rights Reserved.
+<div class=credits>
+Designed by <a href=http://kirancomputers.in/ target=_blank>Kiran Computers</a>
+</div>
+</div>
+<div class=col-md-6>
+<ul class=pull-right>
+<li><a href=index.html>Home</a></li>
+<li><a href=aboutus.html>Who We Are</a></li>
+<li><a href=portfolio.html>Portfolio</a></li>
+<li><a href=contact.html>Contact</a></li>
+</ul>
+</div>
+</div>
+<div class=pull-right>
+<a href=#home class=scrollup><i class="fa fa-angle-up fa-3x"></i></a>
+</div>
+</div>
+</div>
+</footer>
+<script src=js/jquery-2.1.1.min.js></script>
+<script src=js/bootstrap.min.js></script>
+<script src=js/wow.min.js></script>
+<script src=js/fancybox/jquery.fancybox.pack.js></script>
+<script src=js/jquery.easing.1.3.js></script>
+<script src=js/jquery.bxslider.min.js></script>
+<script src=js/jquery.prettyPhoto.js></script>
+<script src=js/jquery.isotope.min.js></script>
+<script src=js/functions.js></script>
+<script>wow=new WOW({}).init();</script>
+</body>
+</html>

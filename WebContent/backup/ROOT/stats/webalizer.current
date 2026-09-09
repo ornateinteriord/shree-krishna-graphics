@@ -1,0 +1,1016 @@
+# Webalizer V2.23-08 Incremental Data - 04/16/2021 03:51:20
+2021 4 16 3 51 20
+808 544 213 38 17 72 28055319 424 217 0
+3 2 40 1 16
+48 41 6075478 17 17 14
+23 13 196552 12 9 8
+72 59 1265373 17 19 14
+32 11 144001 11 11 8
+69 38 823771 14 41 14
+67 46 2353238 16 27 19
+42 19 201778 20 28 16
+41 17 195893 22 36 18
+32 11 416847 13 17 13
+63 49 1910452 28 38 20
+22 12 138680 13 13 9
+46 33 357477 20 36 16
+93 80 7090125 26 34 14
+100 70 6411060 22 50 18
+50 37 400103 16 40 14
+8 8 74491 3 8 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+44 18 189830 24
+54 42 445516 47
+39 30 319214 27
+19 15 210717 9
+47 40 1944223 16
+18 11 106681 8
+51 28 354965 39
+53 26 366882 29
+20 6 60196 19
+16 6 78189 8
+64 29 330533 34
+85 73 8361439 14
+44 37 6074437 5
+8 4 42147 4
+48 45 6138883 20
+21 14 770702 14
+14 11 114996 13
+40 32 655504 15
+16 7 367306 13
+20 11 124159 13
+27 16 179066 22
+11 7 73838 10
+34 25 631525 9
+15 11 114371 12
+0
+0
+0
+544
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+254
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/font-awesome.min.css
+0 10 3905799782965051392 208340 0 0
+/portfolio.html
+0 17 8026310034246885747 176443 1 0
+/css/jquery.bxslider.css
+0 9 3832895551111574840 33120 0 0
+/js/jquery.easing.1.3.js
+0 11 92 89067 0 0
+/css/img/controls.png
+1 3 1836016430 8418 0 0
+/js/jquery-2.1.1.min.js
+0 11 3329348890812099890 926695 0 0
+/aboutus.html
+0 21 3330472591796220461 213717 7 2
+/fonts/fontawesome-webfont.woff
+0 6 3330749672971382327 266592 0 0
+/js/bootstrap.min.js
+0 10 15541296 356010 0 0
+/js/jquery.isotope.min.js
+0 8 0 128264 0 0
+/js/jquery.prettyPhoto.js
+0 9 0 198540 0 0
+/css/animate.css
+0 8 0 491056 0 0
+/newImages/WeddingImage.jpeg
+0 3 0 8964996 0 0
+/css/img/bx_loader.gif
+1 3 0 25743 0 0
+/img/businessconsulation/bussines_banner.jpeg
+0 3 0 874305 0 0
+/contactform/contactform.js
+0 1 0 3166 0 0
+/css/style.css
+0 10 0 173290 0 0
+/css/overwrite.css
+0 9 0 47043 0 0
+/corporateEvent.html
+0 19 0 147984 3 2
+/css/bootstrap.min.css
+0 7 0 900984 0 0
+/contact.html
+0 56 0 532672 18 3
+/images/Innovenz.jpg
+1 5 0 5319930 0 0
+/brand.html
+0 18 0 143552 8 0
+/js/functions.js
+0 10 0 16610 0 0
+/css/prettyPhoto.css
+0 9 0 178992 0 0
+/businessConsultation.html
+0 19 0 172057 4 2
+/
+0 174 0 2086080 131 34
+/img/about us/eventabout.jpg
+1 1 0 219073 0 0
+/css/isotope.css
+0 10 0 39650 0 0
+/weddingEvent.html
+0 17 0 174573 1 0
+/newImages/SocialPage.jpg
+1 3 0 3144426 0 0
+/js/fancybox/jquery.fancybox.pack.js
+0 10 0 231350 0 0
+/js/fancybox/jquery.fancybox.css
+0 11 0 53889 0 0
+/img/home/bg3.jpeg
+0 3 0 830076 0 0
+/img/about us/b15.jpeg
+0 1 0 182644 0 0
+/css/font-awesome.css
+0 10 0 216580 0 0
+/js/wow.min.js
+0 9 0 30771 0 0
+/js/jquery.bxslider.min.js
+0 10 0 193590 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-54-196-64-6.compute-1.amazonaws.com
+0 1 1 44432 0 0
+-
+mail.glau.kr.ua
+0 4 0 828 1 1617784181
+-
+103.62.50.215
+0 15 3 40904 1 1617964518
+/
+ip-54-36-148-239.a.ahrefs.com
+0 1 1 12720 1 1618079148
+/
+190.202.84.129
+0 1 0 210 1 1617826258
+-
+23.254.56.32
+0 2 2 19024 1 1617505080
+/contact.html
+crawl-66-249-69-180.googlebot.com
+0 1 0 205 0 0
+-
+ip-54-36-148-168.a.ahrefs.com
+0 1 0 208 0 0
+-
+crawl-66-249-69-178.googlebot.com
+0 1 0 208 0 0
+-
+ec2-52-87-226-65.compute-1.amazonaws.com
+0 1 1 35601 0 0
+-
+168.205.161.134
+0 1 1 12720 1 1617568458
+/
+ip-54-36-148-162.a.ahrefs.com
+0 2 2 25440 2 1618392627
+/
+192-3-28-247-host.colocrossing.com
+0 4 4 38048 2 1618152323
+/contact.html
+ip-54-36-148-201.a.ahrefs.com
+0 1 1 12720 1 1618150964
+/
+ip-54-36-148-241.a.ahrefs.com
+0 1 0 208 0 0
+-
+ec2-3-8-68-2.eu-west-2.compute.amazonaws.com
+0 5 1 13583 1 1617894397
+-
+8.210.64.70
+0 2 2 25440 1 1618501782
+/
+3.35.86.34.bc.googleusercontent.com
+0 1 1 12720 1 1617689297
+/
+20.80.1.21
+0 15 2 28413 1 1618381857
+-
+pd9e3ea77.dip0.t-ipconnect.de
+0 25 24 2021705 1 1617709483
+/aboutus.html
+ec2-34-219-21-114.us-west-2.compute.amazonaws.com
+0 1 1 12720 1 1617472436
+/
+ec2-18-136-72-135.ap-southeast-1.compute.amazonaws.com
+0 5 1 13583 1 1617863462
+-
+161.35.14.141
+0 1 1 12720 1 1617870374
+/
+ns3027652.ip-5-39-87.eu
+0 1 0 210 1 1618427365
+-
+52.254.8.238
+0 1 0 207 1 1617587288
+/
+ns521295.ip-158-69-124.net
+0 1 1 12720 1 1617246690
+/
+srv40.hostserv.co.za
+0 1 0 210 1 1617617973
+-
+crawl-66-249-70-14.googlebot.com
+0 2 2 17947 1 1617505497
+/
+fleetbase.dev
+0 1 0 210 1 1618262245
+-
+crawl12.bl.semrush.com
+0 1 1 10379 1 1618400965
+/portfolio.html
+crawl-66-249-66-35.googlebot.com
+0 1 0 208 0 0
+-
+165.231.24.74
+0 3 3 31744 1 1618051681
+/contact.html
+ec2-44-234-145-193.us-west-2.compute.amazonaws.com
+0 1 1 12720 1 1617903691
+/
+ip202.ip-149-202-15.eu
+0 4 0 971 1 1617841339
+-
+crawl2.bl.semrush.com
+0 1 0 208 0 0
+-
+52.237.178.81
+0 2 2 19024 1 1617236826
+/contact.html
+ip-54-36-148-164.a.ahrefs.com
+0 1 0 208 0 0
+-
+198.251.78.135
+0 1 1 12720 1 1617462028
+/
+62-210-172-16.rev.cloudlinkd.com
+0 1 1 12720 1 1617236143
+/
+89.248.165.154
+0 2 0 450 2 1618043417
+-
+ec2-34-222-188-87.us-west-2.compute.amazonaws.com
+0 1 0 209 0 0
+-
+ip-54-36-149-11.a.ahrefs.com
+0 1 0 208 0 0
+-
+212.129.152.41
+0 1 1 12720 1 1617693884
+/
+93.158.90.137
+0 1 0 208 0 0
+-
+161.35.154.24
+0 1 0 210 1 1617788705
+-
+ec2-44-235-91-41.us-west-2.compute.amazonaws.com
+0 2 1 12929 1 1618076509
+/
+crawl-66-249-79-140.googlebot.com
+0 9 3 322743 1 1618427144
+/aboutus.html
+ip-54-36-148-227.a.ahrefs.com
+0 1 0 208 0 0
+-
+ip-54-36-148-86.a.ahrefs.com
+0 1 1 12720 1 1617909489
+/
+crawl-66-249-79-206.googlebot.com
+0 6 1 22476 3 1617760274
+/businessConsultation.html
+ip-54-36-148-107.a.ahrefs.com
+0 1 1 12720 1 1617831918
+/
+crawl-66-249-79-150.googlebot.com
+0 11 5 65144 3 1617792687
+/
+199.244.88.132
+0 4 4 0 4 1618543454
+/
+crawl-66-249-64-243.googlebot.com
+0 1 0 208 0 0
+-
+17.235.75.34.bc.googleusercontent.com
+0 18 16 163214 1 1618411271
+/businessConsultation.html
+ip-54-36-148-144.a.ahrefs.com
+0 1 1 12720 1 1617890633
+/
+host-178.19.147-44.pool.intred.it
+0 1 0 210 1 1617509687
+-
+ec2-34-222-100-230.us-west-2.compute.amazonaws.com
+0 1 1 12720 1 1617299529
+/
+185.81.157.172
+0 1 0 228 1 1618515909
+-
+6.176.74.34.bc.googleusercontent.com
+0 4 2 25856 1 1618051722
+/
+91.219.212.197
+0 2 2 19024 1 1617467855
+/contact.html
+250.181.74.34.bc.googleusercontent.com
+0 18 16 163214 1 1618473510
+/businessConsultation.html
+crawl-66-249-66-87.googlebot.com
+0 7 6 54372 2 1617421697
+/businessConsultation.html
+ec2-34-213-225-185.us-west-2.compute.amazonaws.com
+0 1 1 12720 1 1618076486
+/
+46.228.7.5
+0 4 0 828 1 1617784035
+-
+crawl-66-249-72-233.googlebot.com
+0 3 1 13133 1 1618481104
+/
+unidentifiable.mixsumo.org
+0 19 0 4699 17 1618515669
+-
+ec2-54-163-124-124.compute-1.amazonaws.com
+0 1 1 16033 0 0
+-
+seobeo.fvds.ru
+0 3 3 31744 1 1617864274
+/contact.html
+pool-77-222-106-158.is74.ru
+0 27 27 5946875 1 1618409347
+/
+13.76.88.46
+0 17 2 28868 1 1617606303
+/
+crawl-66-249-66-88.googlebot.com
+0 8 4 179105 1 1617366771
+/contact.html
+ip-54-36-148-102.a.ahrefs.com
+0 1 0 208 0 0
+-
+ip-54-36-148-167.a.ahrefs.com
+0 1 0 208 0 0
+-
+mail.hamburg-tourism.de
+0 28 27 5947084 1 1617280845
+/
+5.162.77.34.bc.googleusercontent.com
+0 1 1 12720 1 1618052168
+/
+ec2-54-196-216-46.compute-1.amazonaws.com
+0 1 1 84245 0 0
+-
+40.78.153.184
+0 2 1 12922 1 1617552041
+/
+16.35.86.34.bc.googleusercontent.com
+0 1 1 12720 1 1617423286
+/
+91.219.212.206
+0 1 1 9512 1 1618022805
+/contact.html
+ec2-13-124-222-242.ap-northeast-2.compute.amazonaws.com
+0 3 0 650 1 1617489656
+-
+142.93.10.123
+0 1 0 207 1 1617730969
+/
+52.255.140.37
+0 2 0 411 1 1618021845
+-
+219.138.163.119
+0 1 1 12720 1 1617622187
+/
+171.13.14.35
+0 2 2 145627 0 0
+-
+ip-54-36-149-79.a.ahrefs.com
+0 1 1 12720 1 1618455420
+/
+ec2-63-35-214-255.eu-west-1.compute.amazonaws.com
+0 2 2 22232 1 1617240065
+/contact.html
+77.247.178.182
+0 2 2 19024 1 1618156504
+/contact.html
+ec2-13-228-104-57.ap-southeast-1.compute.amazonaws.com
+0 5 1 13583 1 1617654758
+-
+ip-54-36-148-252.a.ahrefs.com
+0 1 1 12720 1 1618456963
+/
+193.29.104.198
+0 2 1 12922 1 1618492459
+/
+crawl10.bl.semrush.com
+0 2 1 10477 1 1618192220
+/weddingEvent.html
+95-217-207-28.serverhub.ru
+0 1 1 12720 1 1618029505
+/
+ec2-35-80-12-231.us-west-2.compute.amazonaws.com
+0 2 1 12929 1 1617299623
+/
+server.webwalkthrough.com
+0 1 0 210 1 1618524603
+-
+msnbot-40-77-167-56.search.msn.com
+0 1 0 0 1 1617500235
+/
+jobcontrol.citydispense.co.uk
+0 2 0 426 1 1617856671
+-
+62.149.29.138
+0 16 2 28642 1 1617496754
+-
+msnbot-207-46-13-110.search.msn.com
+0 1 0 0 1 1617931901
+/
+ec2-34-243-89-58.eu-west-1.compute.amazonaws.com
+0 2 2 22232 1 1617311180
+/contact.html
+139.155.89.150
+0 21 20 254610 1 1617602723
+/
+ip-54-36-148-154.a.ahrefs.com
+0 1 1 12720 1 1618050994
+/
+111.223.73.34.bc.googleusercontent.com
+0 4 2 25856 1 1618117682
+/
+crawl-66-249-79-192.googlebot.com
+0 2 1 12720 2 1618386811
+/brand.html
+220.252.243.35.bc.googleusercontent.com
+0 18 16 163214 1 1618365372
+/businessConsultation.html
+exchange.ousflour.com
+0 2 2 19024 1 1618521367
+/contact.html
+46.219.204.180
+0 2 2 12720 1 1617783324
+/
+ip-54-36-148-219.a.ahrefs.com
+0 1 1 12720 1 1617984802
+/
+crawl-66-249-72-80.googlebot.com
+0 11 11 275211 0 0
+-
+ec2-54-89-233-121.compute-1.amazonaws.com
+0 1 1 19359 0 0
+-
+crawl-66-249-66-89.googlebot.com
+0 2 1 3374 0 0
+-
+69.195.155.54
+0 2 2 19024 1 1617327289
+/contact.html
+215012.cloudwaysapps.com
+0 1 0 210 1 1618417984
+-
+ec2-54-189-230-128.us-west-2.compute.amazonaws.com
+0 1 1 12720 1 1617727363
+/
+52.188.64.166
+0 1 0 207 1 1617481580
+/
+171.13.14.46
+0 2 2 141432 1 1618027295
+/
+server.bizzrise.in
+0 1 0 210 1 1618167397
+-
+ip-54-36-148-224.a.ahrefs.com
+0 1 0 208 0 0
+-
+ec2-3-235-51-200.compute-1.amazonaws.com
+0 2 1 12928 1 1618495856
+/
+ec2-54-86-20-211.compute-1.amazonaws.com
+0 1 1 23135 0 0
+-
+ec2-34-229-98-96.compute-1.amazonaws.com
+0 1 1 22060 0 0
+-
+ip-148-72-22-169.ip.secureserver.net
+0 1 0 210 1 1618236504
+-
+crawl-66-249-73-27.googlebot.com
+0 2 1 9720 1 1618052879
+/contact.html
+162-144-108-177.unifiedlayer.com
+0 1 0 210 1 1617937822
+-
+ip-54-36-148-133.a.ahrefs.com
+0 1 0 208 0 0
+-
+ip-54-36-149-12.a.ahrefs.com
+0 1 0 208 0 0
+-
+ip-54-36-148-7.a.ahrefs.com
+0 1 1 12720 1 1618141660
+/
+ec2-44-242-174-164.us-west-2.compute.amazonaws.com
+0 1 1 12720 1 1618249297
+/
+crawl-66-249-70-16.googlebot.com
+0 4 3 51915 1 1617564522
+/
+static.113.88.9.5.clients.your-server.de
+0 3 2 19357 1 1617944646
+/brand.html
+crawl-66-249-79-208.googlebot.com
+0 4 3 69155 1 1617637207
+/brand.html
+ec2-3-83-13-140.compute-1.amazonaws.com
+0 1 1 1661 0 0
+-
+ip-54-36-149-104.a.ahrefs.com
+0 1 0 208 0 0
+-
+ip-54-36-148-230.a.ahrefs.com
+0 1 0 208 0 0
+-
+45.152.199.252
+0 3 3 31744 1 1617479862
+/contact.html
+crawl18.bl.semrush.com
+0 1 1 9512 1 1617791144
+/contact.html
+42.83.147.202
+0 1 1 12720 1 1618221684
+/
+ip-54-36-148-51.a.ahrefs.com
+0 1 0 208 0 0
+-
+52.237.178.178
+0 2 2 19024 1 1617917034
+/contact.html
+crawl-66-249-72-247.googlebot.com
+0 2 0 413 0 0
+-
+crawl-66-249-79-220.googlebot.com
+0 1 0 208 0 0
+-
+crawl-66-249-64-247.googlebot.com
+0 1 0 205 0 0
+-
+ip-54-36-148-48.a.ahrefs.com
+0 1 1 12720 1 1618305203
+/
+ec2-54-198-180-37.compute-1.amazonaws.com
+0 1 0 209 1 1617869722
+-
+219.138.163.116
+0 1 1 12720 1 1618001000
+/
+ec2-18-202-221-244.eu-west-1.compute.amazonaws.com
+0 1 1 12720 1 1617300171
+/
+ns528801.ip-158-69-243.net
+0 2 1 12928 1 1618040770
+/
+crawl-66-249-72-82.googlebot.com
+0 4 3 46482 2 1617488766
+/
+ns3138484.ip-51-77-52.eu
+0 1 1 12720 1 1618190665
+/
+171.13.14.58
+0 1 1 20834 0 0
+-
+ip-54-36-148-195.a.ahrefs.com
+0 12 12 152640 12 1618505249
+/
+ip-54-36-148-68.a.ahrefs.com
+0 1 1 12720 1 1618229195
+/
+crawl38.bl.semrush.com
+0 1 0 208 0 0
+-
+92.204.170.186
+0 1 1 12720 1 1617396702
+/
+171.13.14.84
+0 3 3 45226 0 0
+-
+13.82.144.94
+0 4 2 25844 1 1617671318
+/
+93.158.90.169
+0 2 0 413 0 0
+-
+msnbot-207-46-13-14.search.msn.com
+0 1 0 0 1 1618363795
+/
+171.13.14.83
+0 2 2 1068885 0 0
+-
+23.35.86.34.bc.googleusercontent.com
+0 1 1 12720 1 1618343960
+/
+crawl-66-249-79-210.googlebot.com
+0 5 3 38368 4 1617702511
+/corporateEvent.html
+ec2-18-233-226-108.compute-1.amazonaws.com
+0 1 1 3419 0 0
+-
+67.227.43.18.rdns.colocationamerica.com
+0 1 1 12720 1 1618545080
+/
+ec2-18-197-125-181.eu-central-1.compute.amazonaws.com
+0 5 1 13583 1 1617789789
+-
+85-206-165-23.bacloud.info
+0 3 3 31744 1 1618275689
+/contact.html
+97.92.197.35.bc.googleusercontent.com
+0 1 1 0 1 1617243446
+/
+171.13.14.57
+0 1 1 35601 0 0
+-
+37.59.141.40
+0 1 0 210 1 1617670001
+-
+vps-5775895.estudeemportugal.com.br
+0 1 0 210 1 1617310906
+-
+ec2-54-70-50-129.us-west-2.compute.amazonaws.com
+0 1 1 12720 1 1618422534
+/
+crawl-66-249-79-136.googlebot.com
+0 14 10 113338 3 1618425957
+/aboutus.html
+crawl-66-249-79-146.googlebot.com
+0 17 11 502709 3 1617798521
+/
+147.161.170.247
+0 28 27 5947084 1 1618314064
+/
+58.53.128.88
+0 1 1 12720 1 1618416358
+/
+crawl-66-249-73-28.googlebot.com
+0 1 1 291435 0 0
+-
+ec2-54-226-41-113.compute-1.amazonaws.com
+0 1 1 8097 0 0
+-
+ip-54-36-148-244.a.ahrefs.com
+0 1 1 12720 1 1618506336
+/
+ec2-18-220-173-195.us-east-2.compute.amazonaws.com
+0 1 0 220 1 1617950580
+-
+40.112.163.29
+0 1 0 207 1 1617610320
+/
+213.185.203.35.bc.googleusercontent.com
+0 1 1 0 1 1617243437
+/
+39.106.98.188
+0 2 2 25440 2 1618207130
+/
+104.45.219.226
+0 2 2 19024 1 1617842063
+/contact.html
+171.13.14.60
+0 3 3 26521 0 0
+-
+msnbot-207-46-13-12.search.msn.com
+0 2 0 416 0 0
+-
+ip-54-36-148-187.a.ahrefs.com
+0 1 1 12720 1 1617920769
+/
+64.227.78.218
+0 1 0 210 1 1617897700
+-
+ip-54-36-149-18.a.ahrefs.com
+0 1 0 208 0 0
+-
+100.154.73.34.bc.googleusercontent.com
+0 4 2 25856 1 1618135502
+/
+222.154.196.35.bc.googleusercontent.com
+0 18 16 163214 1 1618532066
+/businessConsultation.html
+crawl-66-249-79-148.googlebot.com
+0 10 7 80249 2 1617644606
+/
+107-173-178-155-host.colocrossing.com
+0 2 2 19024 1 1617784150
+/contact.html
+157.34.237.35.bc.googleusercontent.com
+0 36 32 326428 2 1618282674
+/businessConsultation.html
+ninja-crawler42.webmeup.com
+0 13 9 94953 2 1617739664
+/weddingEvent.html
+ec2-44-234-40-237.us-west-2.compute.amazonaws.com
+0 1 0 209 0 0
+-
+20.69.241.252
+0 2 2 19024 1 1618332595
+/contact.html
+mad00.tiss.xyz
+0 7 6 62458 1 1618201638
+/weddingEvent.html
+crawl-66-249-66-32.googlebot.com
+0 1 1 3965 0 0
+-
+tor-exit-16.zbau.f3netze.de
+0 1 0 209 0 0
+-
+crawl-66-249-79-138.googlebot.com
+0 12 7 194295 0 0
+-
+ip-54-36-148-214.a.ahrefs.com
+0 1 1 12720 1 1618281062
+/
+184.215.196.104.bc.googleusercontent.com
+0 18 16 163214 1 1618191102
+/businessConsultation.html
+125.197.223.35.bc.googleusercontent.com
+0 1 1 12720 1 1618155411
+/
+cms600.hostnegar.com
+0 1 0 210 1 1618349035
+-
+msnbot-40-77-167-95.search.msn.com
+0 1 0 208 0 0
+-
+143.198.125.179
+0 1 0 207 1 1617945362
+-
+crawl-66-249-79-222.googlebot.com
+0 1 0 208 0 0
+-
+93.158.90.155
+0 1 1 12720 1 1617403860
+/
+171.13.14.56
+0 1 1 44432 0 0
+-
+crawl-66-249-66-62.googlebot.com
+0 3 1 12928 2 1617393365
+/
+msnbot-13-66-139-77.search.msn.com
+0 7 7 89040 7 1618423565
+/
+ip-54-36-148-242.a.ahrefs.com
+0 1 0 208 0 0
+-
+crawl-66-249-72-78.googlebot.com
+0 33 32 750309 2 1617479993
+/
+crawl-66-249-72-245.googlebot.com
+0 1 0 209 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+199.244.88.132
+0 1 1 0 1 1618543454
+/
+67.227.43.18.rdns.colocationamerica.com
+0 1 1 12720 1 1618545080
+/
+222.154.196.35.bc.googleusercontent.com
+0 6 6 61771 1 1618532066
+/businessConsultation.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://innovenz.com/contact.html
+0 22
+http://innovenz.com
+0 6
+http://www.innovenz.com/
+0 44
+http://innovenz.com/css/jquery.bxslider.css
+0 6
+https://www.google.com/
+0 2
+- (Direct Request)
+0 554
+https://www.google.de/
+0 1
+http://innovenz.com/css/font-awesome.min.css
+0 4
+www.google.com
+0 1
+http://innovenz.com/index.html
+0 17
+http://innovenz.com/businessConsultation.html
+0 2
+http://www.innovenz.com/css/style.css
+0 6
+http://innovenz.com/css/style.css
+0 11
+http://www.google.com/
+0 19
+http://innovenz.com/
+0 84
+http://innovenz.com/aboutus.html
+0 27
+http://sffootsurgeon.com
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.112 Mobile 
+0 23
+Mozilla/5.0
+0 2
+GRequests/0.10
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 
+0 25
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 5
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 15
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/89.0.43
+0 62
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.122 Mobile 
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.7
+0 28
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.117 Mobile 
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/65.0.3325.181 Chrome/65.0.3325.181 Saf
+0 21
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.125 Mobile 
+0 4
+Mozilla/5.0 (Linux; Android 10; LIO-AN00 Build/HUAWEILIO-AN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.127 Mobile 
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 62
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 13
+Go-http-client/1.1
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 55
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 44
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 10
+Googlebot-Image/1.0
+0 19
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+0 16
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 5.1; WOW64; Trident/6.0)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0 Paros/3.2.13
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 1
+Apache-HttpClient/4.5.2 (Java/1.8.0_161)
+0 21
+Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+0 13
+python-requests/2.25.1
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 32
+Python-urllib/2.7
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.102 Mobile 
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2680.94 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:81.0) Gecko/20100101 Firefox/81.0
+0 3
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2896.3 Safari/537.36
+0 19
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3319.102 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 23
+Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2654.10 Safari/537.36
+0 2
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 138
+Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2376.69 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 15
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Sa
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.4
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+0 2
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/74.0.3729.169 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
